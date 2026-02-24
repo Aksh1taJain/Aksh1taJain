@@ -19,6 +19,8 @@ AI enthusiast driven by curiosity and a passion for solving real-world problems 
 ![GitHub analytics](assets/streak.svg)
   
 </div>
+-->
+<br>
 
 ![divider](assets/divider.svg)
---!>
+
