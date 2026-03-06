@@ -4,8 +4,7 @@
   
   # Hi ✨ I'm Akshita Jain 
 </div>
-AI enthusiast driven by curiosity and a passion for solving real-world problems through intelligent systems.<br>I believe the best way to solve problems is to build something new, transforming ideas into scalable, AI-powered applications that create real impact.<br>
-
+AI enthusiast driven by curiosity and a passion for solving real-world problems through intelligent systems.
 
 
 #  Tech Stack:
