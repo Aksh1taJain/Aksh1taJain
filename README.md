@@ -2,7 +2,7 @@
 <br><br>
 <div align="center"> 
   
-  ## Hi I'm Akshita Jain 
+  # Hi I'm Akshita Jain 
 </div>
 AI enthusiast driven by curiosity and a passion for solving real-world problems through intelligent systems.
 
